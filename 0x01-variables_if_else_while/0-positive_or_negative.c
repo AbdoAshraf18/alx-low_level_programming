@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
-  * main - printing n
+  * main - Entry Point
   *
-  * Return - Always 0
+  * Return - Always 0 (Success)
   */
 
 int main(void)
